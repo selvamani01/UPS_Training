@@ -1,0 +1,1 @@
+Enter sides and find area of rectangle and square.

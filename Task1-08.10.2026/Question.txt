@@ -1,0 +1,2 @@
+Install jdk and set up.
+Use printing statement to print your bio data.

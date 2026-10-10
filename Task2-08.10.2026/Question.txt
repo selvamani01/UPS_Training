@@ -1,0 +1,1 @@
+1. Use vara=iable and data type to store your details like (name,age,marks,height,weight,city,mobile number) and print that.
