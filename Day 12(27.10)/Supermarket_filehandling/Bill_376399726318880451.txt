@@ -1,0 +1,19 @@
+================================
+     NEW SHOPPING SESSION
+================================
+
+Item: Carrot
+Category: Vegetables
+Price: Rs.60.0
+Quantity: 4.0 kg
+Item Total: Rs.240.00
+Current Bill: Rs.240.00
+--------------------------------
+
+================================
+       SUPERMARKET BILL
+================================
+Grand Total: Rs.240.00
+Thank you for shopping!
+================================
+Shopping session completed.
